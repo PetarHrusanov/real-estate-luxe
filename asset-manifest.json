@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/real-estate-luxe/static/css/main.5a71dfa3.css",
-    "main.js": "/real-estate-luxe/static/js/main.f0595fbd.js",
+    "main.js": "/real-estate-luxe/static/js/main.d834c95c.js",
     "static/js/453.f6d0fbad.chunk.js": "/real-estate-luxe/static/js/453.f6d0fbad.chunk.js",
     "static/media/inter-latin-ext-600-normal.woff": "/real-estate-luxe/static/media/inter-latin-ext-600-normal.0acb54c755dec53de476.woff",
     "static/media/inter-latin-ext-700-normal.woff": "/real-estate-luxe/static/media/inter-latin-ext-700-normal.149d81a49bd1ff0e6711.woff",
@@ -93,11 +93,11 @@
     "static/media/slick.woff": "/real-estate-luxe/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/real-estate-luxe/index.html",
     "main.5a71dfa3.css.map": "/real-estate-luxe/static/css/main.5a71dfa3.css.map",
-    "main.f0595fbd.js.map": "/real-estate-luxe/static/js/main.f0595fbd.js.map",
+    "main.d834c95c.js.map": "/real-estate-luxe/static/js/main.d834c95c.js.map",
     "453.f6d0fbad.chunk.js.map": "/real-estate-luxe/static/js/453.f6d0fbad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a71dfa3.css",
-    "static/js/main.f0595fbd.js"
+    "static/js/main.d834c95c.js"
   ]
 }
