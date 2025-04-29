@@ -66,6 +66,29 @@ const Navbar = () => {
             />
           </ListItem>
         ))}
+        <ListItem 
+          button 
+          component={Link} 
+          to="/list-property" 
+          onClick={handleDrawerToggle}
+          sx={{ 
+            py: 2,
+            mt: 2,
+            bgcolor: 'primary.main',
+            color: 'white',
+            '&:hover': {
+              bgcolor: 'primary.dark'
+            }
+          }}
+        >
+          <ListItemText 
+            primary="List Property" 
+            primaryTypographyProps={{ 
+              fontWeight: 'bold',
+              fontSize: '1.1rem'
+            }} 
+          />
+        </ListItem>
       </List>
     </Box>
   );
@@ -135,6 +158,8 @@ const Navbar = () => {
               transition={{ duration: 0.5, delay: 0.5 }}
             >
               <Button 
+                component={Link}
+                to="/list-property"
                 variant="contained" 
                 color="primary"
                 sx={{ 
